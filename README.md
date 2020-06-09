@@ -11,4 +11,4 @@ Modified from originals at https://github.com/ROBOTIS-GIT/turtlebot3 and https:/
 
 3. Run ```roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/map.yaml```
 
-If you haven't created a map.yaml file prior to this go through the tutorial at https://emanual.robotis.com/docs/en/platform/turtlebot3/slam/#save-map before using the navigation commands.
+If you haven't created a map.yaml file prior to this go through the tutorial at https://emanual.robotis.com/docs/en/platform/turtlebot3/slam/#save-map before using the navigation commands. You can also run navigation together with SLAM instead of using an already existing map.
