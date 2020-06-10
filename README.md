@@ -1,7 +1,7 @@
 # turtlebot3-navigation
 Navigation Stack for Turtlebot3
 
-Modified from originals at https://github.com/ROBOTIS-GIT/turtlebot3 and https://github.com/ros-planning/navigation.
+Modified from original at https://github.com/ROBOTIS-GIT/turtlebot3/tree/master/turtlebot3_navigation.
 
 ## Use
 
