@@ -25,9 +25,3 @@ TrajectoryPlannerROS:
   vtheta_samples: 20
   sim_granularity: 0.05
 
-GlobalPlanner:
-  allow_unknown: false
-  use_dijkstra: false #Use A* instead
-  use_quadratic: true
-  use_grid_path: false
-  old_navfn_behavior: false
