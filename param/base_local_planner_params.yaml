@@ -25,3 +25,5 @@ TrajectoryPlannerROS:
   vtheta_samples: 20
   sim_granularity: 0.05
 
+  meter_scoring: true
+
