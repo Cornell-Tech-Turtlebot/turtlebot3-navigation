@@ -1,4 +1,4 @@
-image: myapt_map2.pgm
+image: tomiapt_map2.pgm
 resolution: 0.050000
 origin: [-7.000000, -15.000000, 0.000000]
 negate: 0
